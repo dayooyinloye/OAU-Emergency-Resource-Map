@@ -13,27 +13,13 @@ Mobile-Friendly: Responsive design works on all devices
 Layer Control: Toggle different resource types on/off
 
 🗺️ Resource Categories Mapped
-Category
-Symbol
-Examples
-🏥 Medical Centers
-Red Cross
-OAU Health Centre, Campus Clinics
-🚔 Security Posts
-Blue Shield
-Main Security Office, Zone Posts
-🔥 Fire Resources
-Flame Icon
-Fire Hydrants, Fire Service Unit
-🟢 Assembly Points
-Green Triangle
-Hostel Assembly Areas, Academic Zones
-🏛️ Administrative
-Brown Square
-VC Office, Faculty Buildings
-💧 Water Points
-Blue Drop
-Public Water Taps, Storage Tanks
+
+🏥 Medical Centers - Red Cross - OAU Health Centre, Campus Clinics
+🚔 Security Posts - Blue Shield - Main Security Office, Zone Posts
+🔥 Fire Resources - Flame Icon - Fire Hydrants, Fire Service Unit
+🟢 Assembly Points - Green Triangle - Hostel Assembly Areas, Academic Zones
+🏛️ Administrative - Brown Square - VC Office, Faculty Buildings
+💧 Water Points - Blue Drop - Public Water Taps, Storage Tanks
 
 
 🛠️ Technical Implementation
@@ -42,6 +28,7 @@ Field Data Collection: KoboToolbox form deployed on mobile devices
 Data Processing: QGIS for cleaning, styling, and analysis
 Web Export: qgis2web plugin to generate interactive web map
 Hosting: GitHub Pages for free, reliable web hosting
+
 Technologies Used
 Field Data Collection: KoboToolbox
 GIS Software: QGIS 3.28+
@@ -153,6 +140,5 @@ Fire Service: [Insert fire service number]
 Last Updated: [Current Date]
 Data Currency: Survey conducted [December 2025]
 Update Frequency: Semi-annual reviews planned
+
 ⚠️ Emergency Note: In case of actual emergency, contact campus authorities immediately. This map is for planning and awareness purposes.
-
-
